@@ -1,8 +1,8 @@
-### WELCOME TO MY PAGE 👋👋👋
+#### WELCOME TO MY PAGE 👋👋👋
 Hello there!
 I'm Van Duc, a passionate web programming enthusiast currently honing my skills as an intern at FPT Polytechnic College. Web programming isn't just a major for me; it's a calling that fuels my ambition. I'm dedicated to transforming my theoretical knowledge into tangible, real-world results through practical experience.
 
-🚀 MY INTERESTS IN WEB PROGRAMMING INCLUDE:
+🚀 ### MY INTERESTS IN WEB PROGRAMMING INCLUDE:
 
 🌟 FRONT-END DEVELOPMENT: I specialize in crafting captivating user interfaces that ensure a seamless and delightful user experience. My goal is to make every click and scroll a visual masterpiece.
 
