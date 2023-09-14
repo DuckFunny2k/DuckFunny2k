@@ -1,18 +1,20 @@
 ### WELCOME TO MY PAGE 👋👋👋
+Hello there!
+I'm Van Duc, a passionate web programming enthusiast currently honing my skills as an intern at FPT Polytechnic College. Web programming isn't just a major for me; it's a calling that fuels my ambition. I'm dedicated to transforming my theoretical knowledge into tangible, real-world results through practical experience.
 
-Hello! My name is Van Duc, currently an intern majoring in web programming. I am currently studying at FPT Polytechnic College. I am passionate about web programming and am pursuing this field. As an intern, I am gaining practical experience and applying the knowledge gained during my studies to real projects.
-<br>
-## MY INTERESTS IN WEB PROGRAMMING INCLUDE:
-FRONT-END DEVELOPMENT: Create user interfaces and ensure a seamless user experience.
-<br>
-BACK-END DEVELOPMENT: Build logic and functionality to support web applications.
-<br>
-WEB TECHNOLOGY: Explore the latest web development tools and frameworks.
-<br>
-PROBLEM SOLVING: Find creative solutions to technical challenges.
-<br>
-COLLABORATION: Work as a team to create dynamic and functional websites and web applications.
+🚀 MY INTERESTS IN WEB PROGRAMMING INCLUDE:
 
+🌟 FRONT-END DEVELOPMENT: I specialize in crafting captivating user interfaces that ensure a seamless and delightful user experience. My goal is to make every click and scroll a visual masterpiece.
+
+💡 BACK-END DEVELOPMENT: I thrive on building the logical backbone of web applications, infusing them with functionality that brings them to life. It's about making the magic happen behind the scenes.
+
+🌐 WEB TECHNOLOGY: I'm always on the hunt for the latest and greatest web development tools and frameworks. Staying at the forefront of technology is my way of ensuring that I deliver cutting-edge solutions.
+
+🔍 PROBLEM SOLVING: Technical challenges are my playground. I relish the opportunity to find creative solutions to the trickiest of issues. It's where innovation meets ingenuity.
+
+🤝 COLLABORATION: I firmly believe that the best results are achieved when we work as a team. Collaborative efforts lead to dynamic and functional websites and web applications that stand out.
+
+Join me on this exciting journey through the ever-evolving world of web programming. Together, we can create digital wonders that leave a lasting impact. Let's turn dreams into reality, one line of code at a time! 💻✨
 
 ## 📫 How to reach me: 
 
