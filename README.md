@@ -3,7 +3,6 @@
 Hello! My name is Van Duc, currently an intern majoring in web programming. I am currently studying at FPT Polytechnic College. I am passionate about web programming and am pursuing this field. As an intern, I am gaining practical experience and applying the knowledge gained during my studies to real projects.
 <br>
 ## MY INTERESTS IN WEB PROGRAMMING INCLUDE:
-<br>
 FRONT-END DEVELOPMENT: Create user interfaces and ensure a seamless user experience.
 <br>
 BACK-END DEVELOPMENT: Build logic and functionality to support web applications.
