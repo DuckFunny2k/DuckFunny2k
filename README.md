@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE
+### WELCOME TO MY PAGE 👋👋👋
 
 Hello! My name is Van Duc, currently an intern majoring in web programming. I am currently studying at FPT Polytechnic College. I am passionate about web programming and am pursuing this field. As an intern, I am gaining practical experience and applying the knowledge gained during my studies to real projects.
 <br>
