@@ -1,22 +1,21 @@
-### WELCOME TO MY PAGE 👋👋👋
+### WELCOME TO MY PAGE
 
 Hello! My name is Van Duc, currently an intern majoring in web programming. I am currently studying at FPT Polytechnic College. I am passionate about web programming and am pursuing this field. As an intern, I am gaining practical experience and applying the knowledge gained during my studies to real projects.
+<br>
+## MY INTERESTS IN WEB PROGRAMMING INCLUDE:
+<br>
+# FRONT-END DEVELOPMENT: Create user interfaces and ensure a seamless user experience.
+<br>
+# BACK-END DEVELOPMENT: Build logic and functionality to support web applications.
+<br>
+# WEB TECHNOLOGY: Explore the latest web development tools and frameworks.
+<br>
+# PROBLEM SOLVING: Find creative solutions to technical challenges.
+<br>
+# COLLABORATION: Work as a team to create dynamic and functional websites and web applications.
 
-<br>
-My interests in web programming include:
-<br>
-Front-end development: Create user interfaces and ensure a seamless user experience.
-<br>
-Back-end development: Build logic and functionality to support web applications.
-<br>
-Web Technology: Explore the latest web development tools and frameworks.
-<br>
-Problem Solving: Find creative solutions to technical challenges.
-<br>
-Collaboration: Work as a team to create dynamic and functional websites and web applications.
-Communications
+
 ## 📫 How to reach me: 
-
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DuckFunny2k) [![FaceBook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
