@@ -1,6 +1,23 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+Hello! My name is Van Duc, currently an intern majoring in web programming. I am currently studying at FPT Polytechnic College. I am passionate about web programming and am pursuing this field. As an intern, I am gaining practical experience and applying the knowledge gained during my studies to real projects.
+
+My interests in web programming include:
+Front-end development: Create user interfaces and ensure a seamless user experience.
+Back-end development: Build logic and functionality to support web applications.
+Web Technology: Explore the latest web development tools and frameworks.
+Problem Solving: Find creative solutions to technical challenges.
+Collaboration: Work as a team to create dynamic and functional websites and web applications.
+Communications
+Contact me if you have any questions or want to connect:
+
+Email: [Your Email Address]
+LinkedIn: [Your LinkedIn profile]
+I look forward to connecting with fellow developers and enthusiasts in the field of web programming and collaborating on exciting projects. Thank you for taking the time to learn a little about me!
 ## 📫 How to reach me: 
+
+
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DuckFunny2k) [![FaceBook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
