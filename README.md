@@ -4,15 +4,15 @@ Hello! My name is Van Duc, currently an intern majoring in web programming. I am
 <br>
 ## MY INTERESTS IN WEB PROGRAMMING INCLUDE:
 <br>
-# FRONT-END DEVELOPMENT: Create user interfaces and ensure a seamless user experience.
+FRONT-END DEVELOPMENT: Create user interfaces and ensure a seamless user experience.
 <br>
-# BACK-END DEVELOPMENT: Build logic and functionality to support web applications.
+BACK-END DEVELOPMENT: Build logic and functionality to support web applications.
 <br>
-# WEB TECHNOLOGY: Explore the latest web development tools and frameworks.
+WEB TECHNOLOGY: Explore the latest web development tools and frameworks.
 <br>
-# PROBLEM SOLVING: Find creative solutions to technical challenges.
+PROBLEM SOLVING: Find creative solutions to technical challenges.
 <br>
-# COLLABORATION: Work as a team to create dynamic and functional websites and web applications.
+COLLABORATION: Work as a team to create dynamic and functional websites and web applications.
 
 
 ## 📫 How to reach me: 
