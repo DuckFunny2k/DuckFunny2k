@@ -14,8 +14,6 @@ I'm Van Duc, a passionate web programming enthusiast currently honing my skills 
 
 🤝 COLLABORATION: I firmly believe that the best results are achieved when we work as a team. Collaborative efforts lead to dynamic and functional websites and web applications that stand out.
 
-Join me on this exciting journey through the ever-evolving world of web programming. Together, we can create digital wonders that leave a lasting impact. Let's turn dreams into reality, one line of code at a time! 💻✨
-
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DuckFunny2k) [![FaceBook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
