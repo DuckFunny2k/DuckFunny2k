@@ -16,7 +16,7 @@ I'm Van Duc, a passionate web programming enthusiast currently honing my skills 
 
 ## 📫 How to reach me: 
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DuckFunny2k) [![FaceBook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+[![GitHub]() GitHub](https://github.com/DuckFunny2k) [![FaceBook](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 I look forward to connecting with fellow developers and enthusiasts in the field of web programming and collaborating on exciting projects. Thank you for taking the time to learn a little about me!
 
