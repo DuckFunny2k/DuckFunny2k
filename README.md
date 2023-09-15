@@ -28,8 +28,8 @@ I look forward to connecting with fellow developers and enthusiasts in the field
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckFunny2k&layout=compact&langs_count=8&theme=merko&&card_width=500" />
 </a>
 <!-- ----------------------------------------------start project-------------------------------------------------------------- -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Webspa-HTML5_CSS3" />
 </a>
 <a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
