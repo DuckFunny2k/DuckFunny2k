@@ -23,7 +23,7 @@ I look forward to connecting with fellow developers and enthusiasts in the field
 
 ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuckFunny2k&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
 </a>   
