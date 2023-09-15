@@ -29,6 +29,10 @@ I look forward to connecting with fellow developers and enthusiasts in the field
 
 
 <!-- ----------------------------------------------start project-------------------------------------------------------------- -->
+
+<a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Webspa-HTML5_CSS3&theme=dracula" />
+</a>
 <a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Webspa-HTML5_CSS3&theme=dracula"" />
 </a>
