@@ -35,8 +35,4 @@ I look forward to connecting with fellow developers and enthusiasts in the field
   <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Webspa-HTML5_CSS3&theme=dracula" />
 </a>
  
-<a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3">
-   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Webspa-HTML5_CSS3&theme=dracula" />
-</a>
  
