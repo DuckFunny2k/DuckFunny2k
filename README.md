@@ -21,7 +21,7 @@ I'm Van Duc, a passionate web programming enthusiast currently honing my skills 
 I look forward to connecting with fellow developers and enthusiasts in the field of web programming and collaborating on exciting projects. Thank you for taking the time to learn a little about me!
 
 
-![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuckFunny2k&card_width=500&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuckFunny2k&card_width=500&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
 
 <a href="[https://github.com/anuraghazra/convoychat](https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/)">
