@@ -20,16 +20,17 @@ I'm Van Duc, a passionate web programming enthusiast currently honing my skills 
 
 I look forward to connecting with fellow developers and enthusiasts in the field of web programming and collaborating on exciting projects. Thank you for taking the time to learn a little about me!
 
-
 ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuckFunny2k&card_width=500&show_icons=true&theme=radical&hide=contribs,prs,issues)
-
 
 <a href="[https://github.com/anuraghazra/convoychat](https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/)">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckFunny2k&layout=compact&langs_count=8&theme=merko&&card_width=500" />
 </a>
+
+
+
 <!-- ----------------------------------------------start project-------------------------------------------------------------- -->
 <a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Webspa-HTML5_CSS3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Webspa-HTML5_CSS3&theme=dracula"" />
 </a>
 <a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
