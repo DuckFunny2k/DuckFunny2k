@@ -33,15 +33,15 @@ I look forward to connecting with fellow developers and enthusiasts in the field
 </a>
  <a href="https://github.com/norsindark/Sample-Project-Laravel-10x">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DuckFunny2k&repo=Sample-Project-Laravel-10x&theme=gruvbox" />
+  <img height="140px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DuckFunny2k&repo=Sample-Project-Laravel-10x&theme=gruvbox" />
 </a>    
 <a href="https://github.com/DuckFunny2k/React-FoodApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DuckFunny2k&repo=React-FoodApp&theme=radical" />
+  <img height="140px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DuckFunny2k&repo=React-FoodApp&theme=radical" />
 </a>    
 <a href="https://github.com/DuckFunny2k/Myprofile">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DuckFunny2k&repo=Myprofile&theme=merko" />
+  <img height="140px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DuckFunny2k&repo=Myprofile&theme=merko" />
 </a>
  
 
