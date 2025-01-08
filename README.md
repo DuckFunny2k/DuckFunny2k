@@ -24,9 +24,7 @@ I look forward to connecting with fellow developers and enthusiasts in the field
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckFunny2k&layout=compact&langs_count=8&theme=merko&&card_width=400" alt="Top Languages" style="display:inline-block;" />
 </p>
 
-
-
-
+## ❤️❤️ Featured Projects: 
 <!-- ----------------------------------------------start project-------------------------------------------------------------- -->
 
 <a href="https://github.com/DuckFunny2k/Graduation-Project">
