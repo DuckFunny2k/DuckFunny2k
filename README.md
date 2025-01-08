@@ -28,10 +28,10 @@ I look forward to connecting with fellow developers and enthusiasts in the field
 <!-- ----------------------------------------------start project-------------------------------------------------------------- -->
 <p>
   <a href="https://github.com/DuckFunny2k/Graduation-Project" style="display:inline-block;">
-    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Graduation-Project&theme=dracula" />
+    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Graduation-Project&theme=dracula&card_width=300" />
   </a>
   <a href="https://github.com/norsindark/Sample-Project-Laravel-10x" style="display:inline-block;">
-    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Sample-Project-Laravel-10x&theme=gruvbox" />
+    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Sample-Project-Laravel-10x&theme=gruvbox&card_width=300" />
   </a>
 </p>
 
