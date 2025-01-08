@@ -22,7 +22,7 @@ I look forward to connecting with fellow developers and enthusiasts in the field
 
 ![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuckFunny2k&card_width=500&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
-<a href="[https://github.com/anuraghazra/convoychat](https://github.com/DuckFunny2k/Webspa-HTML5_CSS3/)">
+<a href="[https://github.com/anuraghazra/convoychat](https://github.com/DuckFunny2k/Graduation-Project)">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckFunny2k&layout=compact&langs_count=8&theme=merko&&card_width=500" />
 </a>
 
@@ -30,9 +30,9 @@ I look forward to connecting with fellow developers and enthusiasts in the field
 
 <!-- ----------------------------------------------start project-------------------------------------------------------------- -->
 
-<a href="https://github.com/DuckFunny2k/Webspa-HTML5_CSS3">
+<a href="https://github.com/DuckFunny2k/Graduation-Project">
    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Webspa-HTML5_CSS3&theme=dracula" />
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Graduation-Project&theme=dracula" />
 </a>
  
  
