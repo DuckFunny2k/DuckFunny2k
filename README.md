@@ -1,18 +1,17 @@
 #### WELCOME TO MY PAGE 👋👋👋
-Hello there!
-I'm Van Duc, a passionate web programming enthusiast currently honing my skills as an intern at FPT Polytechnic College. Web programming isn't just a major for me; it's a calling that fuels my ambition. I'm dedicated to transforming my theoretical knowledge into tangible, real-world results through practical experience.
+Hello! I am Lam Van Duc, a Frontend programmer who is passionate and enthusiastic about web programming. Currently, I have completed my studies at FPT Polytechnic College. I have good communication skills and learn quickly, I am always ready to absorb and apply new technologies to my work. With professional knowledge and a hard-working spirit, I hope to contribute to the development of the company.
 
-🚀 MY INTERESTS IN WEB PROGRAMMING INCLUDE:
+🚀 My programming skills include:
+🌟 FRONT-END DEVELOPMENT: HTML, CSS, JavaScript, ReactJs, Typescript
 
-🌟 FRONT-END DEVELOPMENT: I specialize in crafting captivating user interfaces that ensure a seamless and delightful user experience. My goal is to make every click and scroll a visual masterpiece.
+💡 BACK-END DEVELOPMENT: PHP, NodeJs, RESTful API, Laravel
+ExpressJs
 
-💡 BACK-END DEVELOPMENT: I thrive on building the logical backbone of web applications, infusing them with functionality that brings them to life. It's about making the magic happen behind the scenes.
+🌐 DATABASE: MySQL, NoSQL (MongoDB
 
-🌐 WEB TECHNOLOGY: I'm always on the hunt for the latest and greatest web development tools and frameworks. Staying at the forefront of technology is my way of ensuring that I deliver cutting-edge solutions.
+🔍 OTHER SKILLS: I am a cheerful, sociable, responsible person, good at managing projects or work and always learning new technologies that suit the requirements of my superiors and the company.
 
-🔍 PROBLEM SOLVING: Technical challenges are my playground. I relish the opportunity to find creative solutions to the trickiest of issues. It's where innovation meets ingenuity.
-
-🤝 COLLABORATION: I firmly believe that the best results are achieved when we work as a team. Collaborative efforts lead to dynamic and functional websites and web applications that stand out.
+🤝 COLLABORATION: With my professional knowledge and hard-working spirit, I hope to contribute to the development of the company.
 
 ## 📫 How to reach me: 
 
