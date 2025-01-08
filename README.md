@@ -34,7 +34,7 @@ I look forward to connecting with fellow developers and enthusiasts in the field
       </a>
     </td>
     <td>
-      <a href="https://github.com/norsindark/Sample-Project-Laravel-10x">
+      <a href="https://github.com/DuckFunny2k/Sample-Project-Laravel-10x">
         <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Sample-Project-Laravel-10x&theme=gruvbox&card_width=300" />
       </a>
     </td>
