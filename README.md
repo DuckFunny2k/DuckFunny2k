@@ -19,9 +19,10 @@ ExpressJs
 
 I look forward to connecting with fellow developers and enthusiasts in the field of web programming and collaborating on exciting projects. Thank you for taking the time to learn a little about me!
 
-![Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuckFunny2k&card_width=350&show_icons=true&theme=radical&hide=contribs,prs,issues) <a href="[https://github.com/anuraghazra/convoychat](https://github.com/DuckFunny2k/Graduation-Project)">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckFunny2k&layout=compact&langs_count=8&theme=merko&&card_width=450" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuckFunny2k&card_width=350&show_icons=true&theme=radical&hide=contribs,prs,issues" alt="Duc's GitHub Stats" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuckFunny2k&layout=compact&langs_count=8&theme=merko&&card_width=450" alt="Top Languages" style="display:inline-block;" />
+</div>
 
 
 
