@@ -26,22 +26,35 @@ I look forward to connecting with fellow developers and enthusiasts in the field
 
 ## ❤️❤️ Featured Projects: 
 <!-- ----------------------------------------------start project-------------------------------------------------------------- -->
-<p>
-  <a href="https://github.com/DuckFunny2k/Graduation-Project" style="display:inline-block;">
-    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Graduation-Project&theme=dracula&card_width=300" />
-  </a>
-  <a href="https://github.com/norsindark/Sample-Project-Laravel-10x" style="display:inline-block;">
-    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Sample-Project-Laravel-10x&theme=gruvbox&card_width=300" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/DuckFunny2k/Graduation-Project">
+        <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Graduation-Project&theme=dracula&card_width=300" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/norsindark/Sample-Project-Laravel-10x">
+        <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Sample-Project-Laravel-10x&theme=gruvbox&card_width=300" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://github.com/DuckFunny2k/React-FoodApp" style="display:inline-block;">
-    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=React-FoodApp&theme=radical" />
-  </a>
-  <a href="https://github.com/DuckFunny2k/Myprofile" style="display:inline-block;">
-    <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Myprofile&theme=merko" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/DuckFunny2k/React-FoodApp">
+        <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=React-FoodApp&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DuckFunny2k/Myprofile">
+        <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=DuckFunny2k&repo=Myprofile&theme=merko" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
